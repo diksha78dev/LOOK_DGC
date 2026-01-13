@@ -1,0 +1,166 @@
+# MIT License
+
+**LOOK-DGC - Digital Image Forensics Toolkit**
+
+---
+
+## 📄 License Information
+
+**Copyright (c) 2024 Gopichand**
+
+**Project:** LOOK-DGC - Digital Image Forensics Toolkit  
+**Developer:** Gopichand  
+**Repository:** https://github.com/Gooichand/LOOK-DGC  
+**License Type:** MIT License  
+
+---
+
+## 📋 License Terms
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.**
+
+---
+
+## ✅ What You Can Do
+
+### 🔓 **Commercial Use**
+- Use LOOK-DGC in commercial projects
+- Sell products that include LOOK-DGC
+- Use in proprietary software
+
+### 🔄 **Modification**
+- Modify the source code
+- Create derivative works
+- Adapt for your specific needs
+
+### 📦 **Distribution**
+- Distribute original or modified versions
+- Include in software packages
+- Share with others freely
+
+### 🔒 **Private Use**
+- Use for personal projects
+- Internal company use
+- Educational purposes
+
+---
+
+## ⚠️ What You Must Do
+
+### 📋 **Include License**
+- Include the original license text
+- Include the copyright notice
+- Credit the original author (Gopichand)
+
+### 📝 **Include Copyright**
+- Maintain copyright notices in source code
+- Include attribution in documentation
+- Preserve original author information
+
+---
+
+## 🚫 What You Cannot Do
+
+### ❌ **Hold Liable**
+- The author is not liable for damages
+- No warranty is provided
+- Use at your own risk
+
+### ❌ **Use Trademark**
+- Cannot use "LOOK-DGC" trademark without permission
+- Cannot imply endorsement by original author
+- Cannot use author's name for promotion without consent
+
+---
+
+## 🤝 Third-Party Components
+
+LOOK-DGC uses several open-source libraries and components:
+
+### 🐍 **Python Libraries**
+- **PySide6**: Qt for Python (LGPL/Commercial)
+- **OpenCV**: Computer Vision Library (Apache 2.0)
+- **NumPy**: Numerical Computing (BSD)
+- **SciPy**: Scientific Computing (BSD)
+- **Matplotlib**: Plotting Library (PSF)
+- **TensorFlow**: Machine Learning (Apache 2.0)
+
+### 📚 **Research Algorithms**
+This project implements algorithms from published research papers. Please cite the original papers when using specific algorithms:
+
+- **Image Resampling**: Popescu & Farid
+- **JPEG Ghosts**: H. Farid
+- **Noise Analysis**: Mahdian & Saic
+- **Noiseprint**: Cozzolino & Verdoliva
+
+---
+
+## 📞 Contact Information
+
+**Developer:** Gopichand  
+**Project:** LOOK-DGC  
+**Repository:** https://github.com/Gooichand/LOOK-DGC  
+**Issues:** https://github.com/Gooichand/LOOK-DGC/issues  
+
+For questions about licensing, please open an issue on GitHub.
+
+---
+
+## 🔄 License History
+
+- **2024**: Initial release under MIT License
+- **Author**: Gopichand
+- **Project**: LOOK-DGC Digital Image Forensics Toolkit
+
+---
+
+## 📖 Additional Information
+
+### 🎓 **Educational Use**
+This software is particularly suitable for:
+- Academic research and education
+- Learning digital image forensics
+- Teaching computer vision concepts
+- Security and forensics training
+
+### 🏢 **Commercial Use**
+The MIT License allows commercial use, including:
+- Integration into commercial products
+- Use in consulting services
+- Deployment in enterprise environments
+- Modification for specific business needs
+
+### 🌍 **Open Source Community**
+We encourage:
+- Contributing improvements back to the community
+- Sharing modifications and enhancements
+- Reporting bugs and issues
+- Participating in discussions
+
+---
+
+<p align="center">
+  <b>📄 MIT License - Simple, Permissive, Business-Friendly</b>
+  <br>
+  <i>Use freely, modify as needed, just keep the license notice</i>
+</p>
+
+---
+
+**[← Back to README](README.md)** | **[How It Works →](HOW_IT_WORKS.md)**
