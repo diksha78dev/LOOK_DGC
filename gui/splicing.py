@@ -20,6 +20,7 @@ from viewer import ImageViewer
 class SplicingWidget(ToolWidget):
     def __init__(self, image, parent=None):
         super(SplicingWidget, self).__init__(parent)
+        
 
         self.image = image
         self.image0 = (
@@ -39,7 +40,8 @@ class SplicingWidget(ToolWidget):
         self.map_viewer = ImageViewer(
             self.image, gray, self.tr("Splicing probability heatmap")
         )
-
+        self.noise_viewer.viewChanged.connect(self.map_viewer.changeView)
+        self.map_viewer.viewChanged.connect(self.noise_viewer.changeView)
         self.noise_button.clicked.connect(self.estimate_noise)
         self.noise_button.toggled.connect(self.estimate_noise)
         self.map_button.clicked.connect(self.compute_map)
@@ -98,5 +100,4 @@ class SplicingWidget(ToolWidget):
             modify_font(self.map_button, bold=False, italic=False)
             self.map_button.setCheckable(True)
         self.map_button.setChecked(True)
-        self.noise_viewer.viewChanged.connect(self.map_viewer.changeView)
-        self.map_viewer.viewChanged.connect(self.noise_viewer.changeView)
+        
